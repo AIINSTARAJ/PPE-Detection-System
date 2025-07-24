@@ -7,13 +7,13 @@ An embedded safety system that uses computer vision and environmental sensors to
 
 This project presents a research-grade, low-cost, real-time safety monitoring system that leverages embedded computer vision and environmental sensing to enhance occupational health and safety (OHS) compliance. The system detects Personal Protective Equipment (PPE) violations and hazardous environmental conditions using a combination of:
 
-##Vision-based object detection (YOLOv4-tiny) trained on a curated Roboflow dataset
+  1. Vision-based object detection (YOLOv4-tiny) trained on a curated Roboflow dataset
 
-##Environmental sensors for gas leaks, heat, spills, and worker proximity
+  2. Environmental sensors for gas leaks, heat, spills, and worker proximity
 
-##Microcontroller-based edge computing via ESP32
+  3. Microcontroller-based edge computing via ESP32
 
-##Modular alert architecture (on-device and remote notifications)
+  4.Modular alert architecture (on-device and remote notifications)
 
 
 This project was developed and tested in a controlled lab environment as part of a larger investigation into affordable, automated safety solutions for high-risk industries.
