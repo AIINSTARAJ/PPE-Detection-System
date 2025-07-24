@@ -11,9 +11,9 @@ This project presents a research-grade, low-cost, real-time safety monitoring sy
 
   2. Environmental sensors for gas leaks, heat, spills, and worker proximity
 
-  3. Microcontroller-based edge computing via ESP32
+  3. Microcontroller-based edge computing via ESP32.
 
-  4.Modular alert architecture (on-device and remote notifications)
+  4. Modular alert architecture (on-device and remote notifications)
 
 
 This project was developed and tested in a controlled lab environment as part of a larger investigation into affordable, automated safety solutions for high-risk industries.
